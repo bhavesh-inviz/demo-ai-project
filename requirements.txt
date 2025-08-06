@@ -1,0 +1,1 @@
+fastapi==0.104.1nuvicorn==0.24.0npydantic==2.5.0npython-multipart==0.0.6nrequests==2.31.0nnumpy==1.24.3npandas==2.0.3nscikit-learn==1.3.0ntorch==2.1.0ntransformers==4.35.0

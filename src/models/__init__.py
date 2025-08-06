@@ -1,0 +1,1 @@
+# AI Models Packagen# Created via MCPnn"""nThis package contains AI models for the demo project.nAll models are created and managed via MCP.n"""nn__version__ = "1.0.0"n__author__ = "MCP AI Assistant"

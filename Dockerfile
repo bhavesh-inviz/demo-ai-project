@@ -1,0 +1,1 @@
+# AI Demo Project Dockerfilen# Created via MCPnnFROM python:3.9-slimnnWORKDIR /appnn# Copy requirements and install dependenciesnCOPY requirements.txt .nRUN pip install --no-cache-dir -r requirements.txtnn# Copy application codenCOPY . .nn# Expose portnEXPOSE 8000nn# Run the applicationnCMD ["python", "main.py"]
